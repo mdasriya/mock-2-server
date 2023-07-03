@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "user1",
+      "age": "53",
+      "place": "Wanadongri",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 3
+    },
+    {
+      "name": "user1",
+      "age": "53",
+      "place": "nagpur",
+      "batch": "WEB-13",
+      "profession": "Frontend",
+      "id": 4
+    },
+    {
+      "name": "mukesh",
+      "age": "24",
+      "place": "nagpur",
+      "batch": "WEB-15",
+      "profession": "FSD",
+      "id": 5
+    }
+  ]
+}
