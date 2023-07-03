@@ -31,6 +31,46 @@
       "batch": "WEB-15",
       "profession": "FSD",
       "id": 5
+    },
+    {
+      "name": "disha",
+      "age": "3",
+      "place": "nagpur",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 6
+    },
+    {
+      "name": "batman",
+      "age": "50",
+      "place": "gotham",
+      "batch_name": "WEB-13",
+      "profession": "Backend",
+      "id": 7
+    },
+    {
+      "name": "flash",
+      "age": "25",
+      "place": "barry",
+      "batch_name": "WEB-14",
+      "profession": "FSD",
+      "id": 8
+    },
+    {
+      "name": "ironman",
+      "age": "37",
+      "place": "marvel",
+      "batch_name": "WEB-14",
+      "profession": "Frontend",
+      "id": 9
+    },
+    {
+      "name": "hulk",
+      "age": "40",
+      "place": "marvel",
+      "batch_name": "WEB-15",
+      "profession": "Student",
+      "id": 10
     }
   ]
 }
